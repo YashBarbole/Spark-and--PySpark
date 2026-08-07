@@ -40,4 +40,13 @@
 
 # our code goes to manager it creates driver program , manager creates worker nodes-they are machines...executors are different.
 # 1 worker has 1 executor
-# worker are connected to driver program . 
+# worker are connected to driver program 
+# spark context is now spark session. its the starting point
+# we connect driver to manager via spark context or session
+#it sets up the connection
+# manager creates app master container 
+# pyspark ---> jvm main
+# spark has java wrapper then it has python wrapper 
+ # worker node has jvm 
+
+#databrics helps us to worl with sparl
