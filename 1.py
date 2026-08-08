@@ -1,4 +1,23 @@
 #started apache spark
+"""
+Python
+      ↓
+Python Practice
+      ↓
+Apache Spark Concepts
+      ↓
+PySpark
+      ↓
+Databricks
+      ↓
+Delta Lake
+      ↓
+Spark Optimization
+      ↓
+Projects
+      ↓
+Interviews
+"""
 
 
 
@@ -49,4 +68,10 @@
 # spark has java wrapper then it has python wrapper 
  # worker node has jvm 
 
-#databrics helps us to worl with sparl
+#databrics helps us to worl with spark
+
+
+#spark creates a dag for a job
+#dag is directed acyclic graph
+#ai please explain this
+
