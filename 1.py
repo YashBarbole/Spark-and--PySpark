@@ -75,3 +75,30 @@ Interviews
 #dag is directed acyclic graph
 #ai please explain this
 
+
+
+
+# partitions
+'''
+it creates partitions on our data
+
+how can we partition our data:
+
+we create logical partitions
+
+RDD:
+resillient distributed dataset 
+
+it creates logical partitions of  data frame and stores in RDD
+kind of list of logical partitions
+
+data lake-> RDD-> executors
+RDD are immutable
+
+
+resillient means it is error tolerant and distributed means it is distributed to executors
+
+'''
+
+
+
