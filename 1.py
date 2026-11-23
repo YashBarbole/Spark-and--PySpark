@@ -1,21 +1,29 @@
 #started apache spark
 """
 Python
-      ↓
+  ↓
 Python Practice
-      ↓
+  ↓
+SQL
+  ↓
+Data Modeling (Basics)
+  ↓
 Apache Spark Concepts
-      ↓
+  ↓
 PySpark
-      ↓
+  ↓
+Azure Fundamentals
+  ↓
 Databricks
-      ↓
+  ↓
 Delta Lake
-      ↓
+  ↓
+Data Modeling (Lakehouse/Advanced)
+  ↓
 Spark Optimization
-      ↓
+  ↓
 Projects
-      ↓
+  ↓
 Interviews
 """
 
@@ -99,6 +107,8 @@ RDD are immutable
 resillient means it is error tolerant and distributed means it is distributed to executors
 
 '''
+
+# narrow and wide transformations 
 
 
 
